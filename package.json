@@ -1,0 +1,27 @@
+{
+  "name": "koa-world",
+  "version": "0.0.0",
+  "description": "KoaJS Hello world. Basic FoolAround with the framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeva-fernandobordallo/koa-world.git"
+  },
+  "keywords": [
+    "koa",
+    "hello-world",
+    "intro"
+  ],
+  "author": "fbv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeva-fernandobordallo/koa-world/issues"
+  },
+  "homepage": "https://github.com/beeva-fernandobordallo/koa-world#readme",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
